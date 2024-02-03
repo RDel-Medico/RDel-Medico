@@ -8,5 +8,5 @@ Passionate about computer science since I discovered this field I always try to 
 On some projects I like to do a presentation video, check this out there : 
 
 <a href="https://www.youtube.com/@remi7924/videos">
-<img src="./assets/youtubeBadge.png">
+<img src="./assets/youtubeBanner.png">
 </a>
