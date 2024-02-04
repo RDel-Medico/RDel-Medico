@@ -10,27 +10,17 @@ I always try to improve myself while taking a lot of fun by developing new proje
 For my personal projects I mainly use **Java** and <a href="https://processing.org/">Processing</a> for my projects with visuals (Processing is essentially Java but it makes graphics easier).
 But I know how to code in many languages and know how to use many tools thanks to others projects and school projects :
 
-#### Tools:
-<code><img height="30" src="./assets/git.png"></code>
-<code><img height="30" src="./assets/gitlab.png"></code>
-<code><img height="30" src="./assets/linux.png"></code>
-<code><img height="30" src="./assets/vscode.png"></code>
-<code><img height="30" src="./assets/processing.png"></code>
+<div align="center">
 
-#### Algorithmic (Object-Oriented / Functional / imperative):
-<code><img height="30" src="./assets/c++.png"></code>
-<code><img height="30" src="./assets/c.png"></code>
-<code><img height="30" src="./assets/java.png"></code>
-<code><img height="30" src="./assets/python.png"></code>
+| <h3>Category</h3> | <h3>Technologies</h3> |
+| :------: | ------ |
+| <h4>Tools</h4> | <div align="center"><img height="30" width="30" src="./assets/git.png"> <img height="30" width="30" src="./assets/gitlab.png"> <img height="30" width="30" src="./assets/linux.png"> <img height="30" width="30" src="./assets/vscode.png"> <img height="30" width="30" src="./assets/processing.png"></div> |
+| <h4>Algorithmic (Object-Oriented / Functional / Imperative)</h4> | <div align="center"><img height="30" width="30" src="./assets/c++.png"> <img height="30" width="30" src="./assets/c.png"> <img height="30" width="30" src="./assets/java.png"> <img height="30" width="30" src="./assets/python.png"></div> |
+| <h4>Back-End</h4> | <div align="center"><img height="30" width="30" src="./assets/php.png"> <img height="30" width="30" src="./assets/postgre.png"></div> |
+| <h4>Front-End</h4> | <div align="center"><img height="30" width="30" src="./assets/css.png"> <img height="30" width="30" src="./assets/html.png"> <img height="30" width="30" src="./assets/js.png"></div> |
 
-#### Back-End:
-<code><img height="30" src="./assets/php.png"></code>
-<code><img height="30" src="./assets/postgre.png"></code>
+</div>
 
-#### Front-End:
-<code><img height="30" src="./assets/css.png"></code>
-<code><img height="30" src="./assets/html.png"></code>
-<code><img height="30" src="./assets/js.png"></code>
 
 
 ## Youtube
