@@ -7,8 +7,8 @@ I'm a french engineering student at **Polytech Grenoble**.
 Passionate about computer science since I discovered this field.
 I always try to improve myself while taking a lot of fun by developing new projects! 😁
 
-For my personal projects I mainly use **Java** and <a href="https://processing.org/">Processing</a> for my projects with visuals (Processing is essentially Java but it makes graphics easier).
-But I know how to code in many languages and know how to use many tools thanks to others projects and school projects :
+For my personal projects I mainly use **Java** and <a href="https://processing.org/">Processing</a> for my projects with visuals (Processing is essentially Java but it makes graphics easier with built-in function).
+But I know how to code in many languages and know how to use many tools thanks to others projects, school projects and internship:
 
 <div align="center">
 
