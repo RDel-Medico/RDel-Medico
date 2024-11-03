@@ -2,13 +2,14 @@
 
 ### Hi there! <img src="./assets/hi.gif" width="35" />
 
-I'm a french engineering student at **Polytech Grenoble**.
+I'm **Rémi DEL MEDICO**, a computer science engineering student at **Polytech Grenoble**, part of **Université Grenoble Alpes**.
 
-Passionate about computer science since I discovered this field.
+Since discovering the power of coding and development, I've been deeply fascinated by technology and innovation. I'm dedicated to continually developing my skills and bringing creative, efficient solutions to life.
 I always try to improve myself while taking a lot of fun by developing new projects! 😁
 
-For my personal projects I mainly use **Java**.
-But I know how to code in many languages and know how to use many tools thanks to others projects, school projects and internship:
+Driven by curiosity and a commitment to make a positive impact, I aim to use my technical expertise to tackle real-world challenges. Whether coding a new feature, working on complex algorithms, or optimizing for better performance, I approach each project with an open mind and enthusiastic spirit.
+
+[Check out my online portfolio here!](https://rdel-medico.github.io/Portfolio/)
 
 <div align="center">
 
@@ -24,7 +25,7 @@ But I know how to code in many languages and know how to use many tools thanks t
 
 
 ## Youtube
-On some projects I like to do a presentation video, check this out there : 
+I enjoy creating video presentations of some of my projects! Feel free to check them out:
 
 <a href="https://www.youtube.com/@remi7924/videos">
 <img src="./assets/youtubeBanner.png">
