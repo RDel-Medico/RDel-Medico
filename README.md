@@ -11,6 +11,10 @@ Driven by curiosity and a commitment to make a positive impact, I aim to use my 
 
 [Check out my online portfolio here!](https://rdel-medico.github.io/Portfolio/)
 
+## Technologies and Tools
+
+In my projects, I primarily use Java, but I’m also skilled in several other languages and tools, thanks to school projects, internships, and personal explorations:
+
 <div align="center">
 
 | <h3>Category</h3> | <h3>Technologies</h3> |
