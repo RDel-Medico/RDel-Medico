@@ -15,7 +15,7 @@ But I know how to code in many languages and know how to use many tools thanks t
 | <h3>Category</h3> | <h3>Technologies</h3> |
 | :------: | ------ |
 | <h4>Tools</h4> | <div align="center"><img height="30" width="30" src="./assets/git.png"> <img height="30" width="30" src="./assets/gitlab.png"> <img height="30" width="30" src="./assets/linux.png"> <img height="30" width="30" src="./assets/vscode.png"> <img height="30" width="30" src="./assets/processing.png"></div> |
-| <h4>Algorithmic (Object-Oriented / Functional / Imperative)</h4> | <div align="center"><img height="30" width="30" src="./assets/c++.png"> <img height="30" width="30" src="./assets/c.png"> <img height="30" width="30" src="./assets/java.png"> <img height="30" width="30" src="./assets/python.png"></div> |
+| <h4>Algorithmic (Object-Oriented / Functional / Imperative)</h4> | <div align="center"> <img height="30" width="30" src="./assets/java.png"> <img height="30" width="30" src="./assets/python.png"> <img height="30" width="30" src="./assets/c++.png"> <img height="30" width="30" src="./assets/c.png"></div> |
 | <h4>Back-End</h4> | <div align="center"><img height="30" width="30" src="./assets/php.png"> <img height="30" width="30" src="./assets/postgre.png"></div> |
 | <h4>Front-End</h4> | <div align="center"><img height="30" width="30" src="./assets/css.png"> <img height="30" width="30" src="./assets/html.png"> <img height="30" width="30" src="./assets/js.png"></div> |
 
