@@ -31,6 +31,6 @@ In my projects, I primarily use Java, but I’m also skilled in several other la
 ## Youtube
 I enjoy creating video presentations of some of my projects! Feel free to check them out:
 
-<a href="https://www.youtube.com/@remi7924/videos">
+<a href="https://www.youtube.com/@Remi_DM/videos">
 <img src="./assets/youtubeBanner.png">
 </a>
